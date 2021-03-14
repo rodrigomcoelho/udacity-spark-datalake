@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Parquet file
+artists.parquet
+songplays.parquet
+songs.parquet
+time.parquet
+users.parquet
